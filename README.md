@@ -5,6 +5,7 @@
 ---
 
 ### 每月回顾
+- 202402: [**DoRA, OLMo, Gemma | 202402论文回顾**](./docs/2024/research-papers-in-february-2024_filtered_zh.md)
 
 ---
 ### 每周论文
@@ -12,6 +13,7 @@
 
 ---
 ### 每日新闻
+- 20240419: [**[AINews] Meta Llama 3 (8B, 70B)**](./docs/2024/ainews-to-be-named-5820_filtered_zh.md)
 - 20240416: [**[AINews] Multi-modal, Multi-Aspect, Multi-Form-Factor AI**](./docs/2024/ainews-multi-modal-multi-aspect-multi-form-factor_filtered_zh.md)
 - 20240413: [**[AINews] Zero to GPT in 1 Year**](./docs/2024/ainews-zero-to-gpt-in-1-year_filtered_zh.md)
 - 20240412: [**[AINews] Mergestral, Meta MTIAv2, Cohere Rerank 3, Google Infini-Attention**](./docs/2024/ainews-mergestral-meta-mtiav2-cohere-rerank-3_filtered_zh.md)
