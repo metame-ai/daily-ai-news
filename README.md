@@ -9,6 +9,7 @@
 
 ---
 ### 每周论文
+- 20240422: [**🥇Top ML Papers of the Week**](./docs/2024/top-ml-papers-of-the-week-689_filtered_zh.md)
 - 20240415: [**CodeGemma, Infini-attention | 每周Top论文速览**](./docs/2024/top-ml-papers-of-the-week-263_filtered_zh.md)
 
 ---
