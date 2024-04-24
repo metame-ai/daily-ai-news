@@ -8,12 +8,16 @@
 - 202402: [**DoRA, OLMo, Gemma | 202402论文回顾**](./docs/2024/research-papers-in-february-2024_filtered_zh.md)
 
 ---
+
 ### 每周论文
-- 20240422: [**🥇Top ML Papers of the Week**](./docs/2024/top-ml-papers-of-the-week-689_filtered_zh.md)
+- 20240422: [**Llama 3, Chinchilla Scaling | 每周Top论文速览**](./docs/2024/top-ml-papers-of-the-week-689_filtered_zh.md)
 - 20240415: [**CodeGemma, Infini-attention | 每周Top论文速览**](./docs/2024/top-ml-papers-of-the-week-263_filtered_zh.md)
 
 ---
 ### 每日新闻
+- 20240423: [**[AINews] Perplexity, the newest AI unicorn**](./docs/2024/ainews-perplexity_filtered_zh.md)
+- 20240422: [**[AINews] FineWeb: 15T Tokens, 12 years of CommonCrawl (deduped and filtered, you're welcome)**](./docs/2024/ainews-fineweb-15t-tokens-of-commoncrawl_filtered_zh.md)
+- 20240420: [**[AINews] Llama-3-70b is GPT-4-level Open Model**](./docs/2024/ainews-to-be-named-5820_filtered_zh.md)
 - 20240419: [**[AINews] Meta Llama 3 (8B, 70B)**](./docs/2024/ainews-to-be-named-5820_filtered_zh.md)
 - 20240416: [**[AINews] Multi-modal, Multi-Aspect, Multi-Form-Factor AI**](./docs/2024/ainews-multi-modal-multi-aspect-multi-form-factor_filtered_zh.md)
 - 20240413: [**[AINews] Zero to GPT in 1 Year**](./docs/2024/ainews-zero-to-gpt-in-1-year_filtered_zh.md)
