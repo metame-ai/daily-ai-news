@@ -15,14 +15,7 @@
 
 ---
 ### 每日新闻
-- 20240426: [**[AINews] Snowflake Arctic: Fully Open 10B+128x4B Dense-MoE Hybrid LLM**](./docs/2024/ainews-snowflake_filtered_zh 2.md)
-- 20240426: [**[AINews] Snowflake Arctic: Fully Open 10B+128x4B Dense-MoE Hybrid LLM**](./docs/2024/ainews-snowflake_filtered_zh 2.md)
-- 20240426: [**[AINews] Snowflake Arctic: Fully Open 10B+128x4B Dense-MoE Hybrid LLM**](./docs/2024/ainews-snowflake_filtered_zh 2.md)
-- 20240426: [**[AINews] Snowflake Arctic: Fully Open 10B+128x4B Dense-MoE Hybrid LLM**](./docs/2024/ainews-snowflake_filtered_zh 2.md)
-- 20240426: [**[AINews] Snowflake Arctic: Fully Open 10B+128x4B Dense-MoE Hybrid LLM**](./docs/2024/ainews-snowflake_filtered_zh 2.md)
-- 20240426: [**[AINews] Snowflake Arctic: Fully Open 10B+128x4B Dense-MoE Hybrid LLM**](./docs/2024/ainews-snowflake_filtered_zh 2.md)
-- 20240426: [**[AINews] Snowflake Arctic: Fully Open 10B+128x4B Dense-MoE Hybrid LLM**](./docs/2024/ainews-snowflake_filtered_zh 2.md)
-- 20240426: [**[AINews] Snowflake Arctic: Fully Open 10B+128x4B Dense-MoE Hybrid LLM**](./docs/2024/ainews-snowflake_filtered_zh 2.md)
+- 20240426: [**[AINews] Snowflake Arctic: Fully Open 10B+128x4B Dense-MoE Hybrid LLM**](./docs/2024/ainews-snowflake_filtered_zh.md)
 - 20240425: [**[AINews] OpenAI's Instruction Hierarchy for the LLM OS**](./docs/2024/ainews-openai-reveals-its-instruction-hierarchy_filtered_zh.md)
 - 20240423: [**[AINews] Perplexity, the newest AI unicorn**](./docs/2024/ainews-perplexity_filtered_zh.md)
 - 20240422: [**[AINews] FineWeb: 15T Tokens, 12 years of CommonCrawl (deduped and filtered, you're welcome)**](./docs/2024/ainews-fineweb-15t-tokens-of-commoncrawl_filtered_zh.md)
