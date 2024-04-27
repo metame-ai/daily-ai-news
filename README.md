@@ -15,6 +15,7 @@
 
 ---
 ### 每日新闻
+- 20240427: [**[AINews] Apple's OpenELM beats OLMo with 50% of its dataset, using DeLighT**](./docs/2024/ainews-apples-openelm-beats-olmo-with-50-of-its_filtered_zh.md)
 - 20240426: [**[AINews] Snowflake Arctic: Fully Open 10B+128x4B Dense-MoE Hybrid LLM**](./docs/2024/ainews-snowflake_filtered_zh.md)
 - 20240425: [**[AINews] OpenAI's Instruction Hierarchy for the LLM OS**](./docs/2024/ainews-openai-reveals-its-instruction-hierarchy_filtered_zh.md)
 - 20240423: [**[AINews] Perplexity, the newest AI unicorn**](./docs/2024/ainews-perplexity_filtered_zh.md)
